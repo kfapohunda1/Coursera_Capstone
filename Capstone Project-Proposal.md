@@ -1,4 +1,4 @@
-# 1. A description of the problem and a discussion of the background. (15 marks)
+# 1. A description of the problem and a discussion of the background.
 
 Low back pain (LBP) is a leading cause of pain and disability. Substance use disorder (SUD) complicates the management of LBP, and potential risks increases with aging. Despite implications for an aging, diverse U.S. population, substance use and LBP comorbidity remain poorly defined. 
 
@@ -6,7 +6,7 @@ The objective of this project is to geographically characterize the distribution
 
 By segmenting and clustering the beneficiaries with these diagnosis, we can help stakeholders (health department) identify the hotspot or regions most affected by LBP and SUD, identify the rate of diagnosis by specific region,  and how to efficiently distribute available resources to make significant impact.
 
-# 2.	A description of the data and how it will be used to solve the problem. (15 marks)
+# 2.	A description of the data and how it will be used to solve the problem.
 
 The data needed to address this issue includes CMS data, Foursquare API and folium library for mapping. The CMS data is the federal government data that relates to traditional Medicare Fee-For-Services. It includes over 1,477,594 U.S. Medicare beneficiaries, 37,634,210 claims, and 92,903,649 diagnostic code assignments. However, after performing ETL for beneficiaries who were diagnosed with substance disorder and low back pain, we are able cluster, segment and map them using.
 
