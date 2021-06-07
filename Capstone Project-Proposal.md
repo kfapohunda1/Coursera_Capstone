@@ -1,5 +1,4 @@
-
-#1. A description of the problem and a discussion of the background. (15 marks)
+# 1. A description of the problem and a discussion of the background. (15 marks)
 
 Low back pain (LBP) is a leading cause of pain and disability. Substance use disorder (SUD) complicates the management of LBP, and potential risks increases with aging. Despite implications for an aging, diverse U.S. population, substance use and LBP comorbidity remain poorly defined. 
 
